@@ -13,7 +13,7 @@ import studio8.tests.SelectAllQuestionTest;
  */
 @RunWith(Suite.class)
 @Suite.SuiteClasses({ QuestionTest.class, MultipleChoiceQuestionTest.class, SelectAllQuestionTest.class,
-	QuizTest.class, })
+		QuizTest.class, })
 public class Studio8TestSuite {
 
 }
